@@ -1,1 +1,2 @@
-# Banking-and-Policy-System-
+# Banking and Policy System
+In order to avoid the long and eetended communication with the banking and insurance agents while searching for the best and afordable loans and banking services, we have build an application in C++ which provides a direct channel where user can not only create a profile and an account but will also be able to perform transactions along with being presented with the list of available loans/services tailored as per his/her profile without any third party involvements.
